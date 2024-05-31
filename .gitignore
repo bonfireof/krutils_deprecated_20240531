@@ -1,0 +1,29 @@
+## 파일 무시
+*.json
+todo.md
+
+
+## 다음과 같은 확장자는 전체 무시
+*.exclude_extention
+*.json
+*.log
+
+
+## 폴더 무시
+.vscode/
+test/
+__pycache__/
+
+## virtualenv 관련 리소스
+pyvenv.cfg
+bin/
+include/
+Lib/
+lib/
+lib64
+Scripts/
+
+
+
+
+
